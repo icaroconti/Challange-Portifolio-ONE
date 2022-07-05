@@ -1,0 +1,52 @@
+/* main{
+    display: grid;
+    grid-template-areas: 
+        "cabecalho"
+        "introducao"
+        "sobre"
+        "skills"
+        "hobbies"
+        "formacoes-cursos"
+        "experiencia"
+        "contato"
+        "rodape";
+    grid-template-columns: auto;
+    grid-template-rows: 30px auto*7;
+    width: 100%;
+}
+
+.cabecalho{
+    grid-area: cabecalho;
+}
+
+.introducao{
+    grid-area: introducao;
+}
+
+.sobre{
+    grid-area: sobre;
+}
+
+.skills{
+    grid-area: skills;
+}
+
+.hobbies{
+    grid-area: hobbies;
+}
+
+.formacoes-cursos{
+    grid-area: formacoes-cursos;
+}
+
+.experiencia{
+    grid-area: experiencia;
+}
+
+.contato{
+    grid-area: contato;
+}
+
+.rodape{
+    grid-area: rodape;
+} */
